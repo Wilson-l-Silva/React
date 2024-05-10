@@ -1,6 +1,6 @@
 criação de aplicativo react usando vite:
 
-no terminal escrever: create-vite@4.1.0
+no terminal escrever: npm create-vite@4.1.0
 selecione o React e Vanilla js
 após a instalação executar o comando
 npm install para instalar todas a dependecias 
